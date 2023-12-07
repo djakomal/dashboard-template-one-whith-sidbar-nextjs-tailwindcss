@@ -3,7 +3,7 @@ import { FaBell } from "react-icons/fa";
 import Card from '@/components/Card';
 const Header = () => {
     return (
-        <div className='fixed inset-Y-5 left-40 w-40 w-screen px-6  h-20 bg-white   border-r-[1px] flex flex-col justify-between mr-4 pt-4 maxèAuto' >
+        <div className='fixed inset-Y-5 left-40 w-40 w-screen px-12  shadow-xl h-20 bg-white  ml-5  border-r-[1px] flex flex-col justify-between mr-4 pt-4 maxèAuto' >
             {/* <div className=' dixzde inset-Y-4   left-30 pl-6 '>
                 <span className="sr-only">Search</span>
                 <span className="absolute inset-y-4 left-6 flex items-center pb-2">
